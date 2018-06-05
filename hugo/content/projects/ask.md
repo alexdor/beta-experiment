@@ -1,9 +1,9 @@
 ---
 title: "Ask - The Coral Project"
 date: 2018-05-09T20:47:18+03:00
-imageURL: "/assets/images/firefox-logo.png"
-thumbnail: "/assets/images/firefox-logo.png"
-link: "https://www.coralproject.net/products/talks.html"
+imageURL: "/assets/images/ask.png"
+thumbnail: "/assets/images/ask.png"
+link: "https://www.coralproject.net/products/ask.html"
 sortDescription: "Ask is a tool primarily for journalists for asking your audience specific questions."
 descriptionLeft: "If you want to ask your audience a specific question to improve your
 reporting, you can give out your email, ask people to use social media
