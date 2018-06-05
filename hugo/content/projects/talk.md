@@ -1,9 +1,9 @@
 ---
 title: "Talk - The Coral Project"
 date: 2018-05-09T20:47:18+03:00
-imageURL: "/assets/images/firefox-logo.png"
-thumbnail: "/assets/images/firefox-logo.png"
-link: "http://firefox-dev.tools/debugger.html/"
+imageURL: "/assets/images/talk.png"
+thumbnail: "/assets/images/talk.png"
+link: "https://www.coralproject.net/products/talk.html"
 sortDescription: "Online comments are broken. Talk rethinks how moderation, comment display and online conversation function."
 descriptionLeft: "Online comments are broken. Our Talk tool rethinks how moderation, comment display, and online conversation function, creating the opportunity for safer, smarter discussions around your work."
 descriptionRight:
