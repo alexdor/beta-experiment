@@ -93,6 +93,7 @@
     min-height: 80px;
     width: 50%;
     margin: unset;
+    display: inline-block;
   }
   .project-content>ul>li>ul>li>p {
     align-self: flex-start;
