@@ -1,3 +1,3 @@
 ---
-title: Identify a Project to Contribute to
+title: Contribute to Open Source 
 ---
