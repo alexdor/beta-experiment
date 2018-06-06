@@ -26,7 +26,7 @@ menu: "projects"
 
 * Contribute
 
-  * [Contribute to Debugger](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
+  * [Contribute to GNOME Polari](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
 
 * Additional resources
 
