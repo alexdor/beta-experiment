@@ -15,7 +15,7 @@ menu: "projects"
 
 * Setup dev time
 
-  * Setting up your development environment: 15 minutes with GNOME Builder
+  * 15 minutes with GNOME Builder
 
 
   * [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)
