@@ -93,10 +93,14 @@
     min-height: 80px;
     width: 50%;
     margin: unset;
+    display: inline-block;
   }
   .project-content>ul>li>ul>li>p {
     align-self: flex-start;
     margin: .5em;
+  }
+  project-content>ul>li>ul.project-image-wrapper {
+    max-height: 40vh;
   }
   .project-content>ul>li>ul>li.project-content-image {
     align-items: flex-start;
