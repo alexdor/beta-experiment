@@ -8,7 +8,7 @@ sortDescription: "Contribute to the Internet of Things through Mozilla's initiat
 descriptionLeft: "The Mozilla IoT community is dedicated to applying Mozilla's values to the Internet of Things and working towards a decentralized IoT with new standards around security, privacy and interoperability."
 descriptionRight: "None of these are built for the needs of journalists. Our Ask tool is."
 callToAction: "Learn More..." # Find out more by default
-listingDescription: # The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
+listingDescription: "Contribute to the Internet of Things through Mozilla's initiative." # The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
 menu: "projects"
 ---
 
