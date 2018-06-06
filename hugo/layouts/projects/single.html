@@ -5,7 +5,8 @@
     <main role="main" class="ml-sm-auto project-single">
       <div class="d-flex justify-content-md-between justify-content-center flex-wrap flex-md-nowrap align-items-center pt-3 pb-4 mb-3 w-100 project-header">
         <div class="col-md-10 col-lg-8 offset-md-1 offset-lg-2 row">
-          <div class="col-md-4">
+          <div class="col-md-4 project-image-wrapper">
+
             {{ if .Params.imageURL }}
             <img src="{{.Params.imageURL}}" alt="{{.Title}}" class="d-block project-header-image mx-auto img-fluid" /> {{ end }}
 
