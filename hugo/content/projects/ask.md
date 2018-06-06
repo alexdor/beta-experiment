@@ -10,7 +10,7 @@ reporting, you can give out your email, ask people to use social media
 or the comments box, or use a third-party form/survey tool."
 descriptionRight: "None of these are built for the needs of journalists. Our Ask tool is."
 callToAction: "Learn More..." # Find out more by default
-listingDescription: # The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
+listingDescription: "Ask is a tool primarily for journalists for asking your audience specific questions."# The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
 menu: "projects"
 ---
 
@@ -24,7 +24,7 @@ menu: "projects"
 * Technologies
 
   * ![nodejs](/assets/images/nodejs.png) Go
-  * ![nodejs](/assets/images/npm.png) Mongo
+  * ![nodejs](/assets/images/mongo-logo.png) Mongo
   * ![nodejs](/assets/images/react.png) React
   * ![nodejs](/assets/images/redux.png) Redux
   * ![nodejs](/assets/images/js.jpg) Javascript

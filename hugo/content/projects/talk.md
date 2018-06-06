@@ -8,7 +8,7 @@ sortDescription: "Online comments are broken. Talk rethinks how moderation, comm
 descriptionLeft: "Online comments are broken. Our Talk tool rethinks how moderation, comment display, and online conversation function, creating the opportunity for safer, smarter discussions around your work."
 descriptionRight:
 callToAction: "Learn More..." # Find out more by default
-listingDescription: # The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
+listingDescription: "Online comments are broken. Talk rethinks how moderation, comment display and online conversation function."# The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
 menu: "projects"
 ---
 
@@ -25,9 +25,9 @@ menu: "projects"
   * ![nodejs](/assets/images/npm.png) NPM
   * ![nodejs](/assets/images/react.png) React
   * ![nodejs](/assets/images/redux.png) Redux
-  * ![nodejs](/assets/images/js.jpg) Mongo
-  * ![nodejs](/assets/images/js.jpg) Redis
-  * ![nodejs](/assets/images/js.jpg) Heroku
+  * ![nodejs](/assets/images/mongo-logo.jpg) Mongo
+  * ![nodejs](/assets/images/redis-logo.jpg) Redis
+  * ![nodejs](/assets/images/heroku-logo.jpg) Heroku
 
 * Contribute
 
