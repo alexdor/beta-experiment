@@ -28,7 +28,7 @@ menu: "projects"
 * Contribute
 
   * [List of Newcomers Bugs](https://bugzilla.gnome.org/buglist.cgi?product=gnome-maps&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&keywords=newcomers&resolution=---&columnlist=component%2Cchangeddate%2Cbug_severity%2Cpriority%2Cshort_desc&order=changeddate%20DESC%2Ccomponent&list_id=64327)
-  [Complete list of GNOME Maps bugs to solve](https://bugzilla.gnome.org/buglist.cgi?quicksearch=product%3A%22gnome-maps%22%20&list_id=88924)
+  * [Complete list of GNOME Maps bugs to solve](https://bugzilla.gnome.org/buglist.cgi?quicksearch=product%3A%22gnome-maps%22%20&list_id=88924)
 
 * Additional resources
 
