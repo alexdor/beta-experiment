@@ -15,11 +15,9 @@ menu: "projects"
 - Setup dev time
 
   - 15 minutes with GNOME Builder
-
-* [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)
+  - [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)
 
 * Technologies
-
   - ![Python](/assets/images/python-logo.jpg) Python
 
 * Contribute

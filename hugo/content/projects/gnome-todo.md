@@ -19,7 +19,7 @@ menu: "projects"
 
 * Technologies
 
-  * ![nodejs](/assets/images/c-logo.png) C
+  * ![c](/assets/images/c-logo.png) C
 
 
 * Contribute
