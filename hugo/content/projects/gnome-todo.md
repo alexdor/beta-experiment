@@ -15,8 +15,6 @@ menu: "projects"
 * Setup dev time
 
   * 15 minutes with GNOME Builder
-
-
   * [Instructions](https://wiki.gnome.org/Newcomers/BuildGnome)
 
 * Technologies
