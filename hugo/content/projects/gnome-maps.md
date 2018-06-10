@@ -27,12 +27,12 @@ menu: "projects"
 
 * Contribute
 
-  * [Contribute to GNOME Maps](https://bugzilla.gnome.org/buglist.cgi?product=gnome-maps&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&keywords=newcomers&resolution=---&columnlist=component%2Cchangeddate%2Cbug_severity%2Cpriority%2Cshort_desc&order=changeddate%20DESC%2Ccomponent&list_id=64327)
+  * [List of Newcomers Bugs](https://bugzilla.gnome.org/buglist.cgi?product=gnome-maps&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&keywords=newcomers&resolution=---&columnlist=component%2Cchangeddate%2Cbug_severity%2Cpriority%2Cshort_desc&order=changeddate%20DESC%2Ccomponent&list_id=64327)
+  [Complete list of GNOME Maps bugs to solve](https://bugzilla.gnome.org/buglist.cgi?quicksearch=product%3A%22gnome-maps%22%20&list_id=88924)
 
 * Additional resources
 
+  * [Additional Developer Resources](https://wiki.gnome.org/Apps/Maps/Resources)
   * [Codebase](https://git.gnome.org/)
-  * Any questions or want to hangout with nice folks? Please join us in  [#polari on irc.gnome.org](irc://irc.gnome.org/%23polari).
-
-
-  * Find out how the GNOME Apps project started [here](https://www.superlectures.com/guadec2013/where-am-i-where-to-grab-lunch).
+  * Any questions or want to hangout with nice folks? Please join us in [#maps on irc.gnome.org](irc://irc.gnome.org/%23polari).
+  * GNOME Maps [Roadmap](https://wiki.gnome.org/Apps/Maps/Roadmap)
