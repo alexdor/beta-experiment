@@ -28,7 +28,6 @@ menu: "projects"
   - [Contribute to GNOME Polari](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
 
 * Additional resources
-
+  - [Contribution Guidelines](https://gitlab.gnome.org/GNOME/gnome-todo/blob/master/doc/CONTRIBUTING.md)
   - Any questions or want to hangout with nice folks? Please join us in [#polari on irc.gnome.org](irc://irc.gnome.org/%23polari).
-
-- If you found a problem or have a feature suggestion, please report the issue to the GNOME [bug tracking system](https://gitlab.gnome.org/GNOME/polari/issues).
+  - If you found a problem or have a feature suggestion, please report the issue to the GNOME [bug tracking system](https://gitlab.gnome.org/GNOME/polari/issues).

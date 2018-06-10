@@ -30,6 +30,7 @@ menu: "projects"
 
 * Additional resources
 
+  - [Contribution Guidelines](https://gitlab.gnome.org/GNOME/gnome-todo/blob/master/doc/CONTRIBUTING.md)
   - [Additional Developer Resources](https://wiki.gnome.org/Apps/Maps/Resources)
   - [Codebase](https://git.gnome.org/)
   - Any questions or want to hangout with nice folks? Please join us in [#maps on irc.gnome.org](irc://irc.gnome.org/%23polari).
