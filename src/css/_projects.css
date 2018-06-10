@@ -107,6 +107,7 @@
     width: 25%;
     justify-content: center;
     padding-right: 5px;
+    display: flex;
   }
   .project-header-image {
     max-height: 100%;

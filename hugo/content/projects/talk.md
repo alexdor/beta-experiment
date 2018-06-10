@@ -12,31 +12,29 @@ listingDescription: "Online comments are broken. Talk rethinks how moderation, c
 menu: "projects"
 ---
 
-* Setup dev time
+- Setup dev time
 
-  * Setting up your development environment: 5 minutes with heroku
+  - Setting up your development environment: 5 minutes with heroku
 
-
-  * [Instructions](https://github.com/coralproject/talk)
+* [Instructions](https://github.com/coralproject/talk)
 
 * Technologies
 
-  * ![nodejs](/assets/images/nodejs.png) Nodejs
-  * ![nodejs](/assets/images/npm.png) NPM
-  * ![nodejs](/assets/images/react.png) React
-  * ![nodejs](/assets/images/redux.png) Redux
-  * ![nodejs](/assets/images/mongo-logo.jpg) Mongo
-  * ![nodejs](/assets/images/redis-logo.jpg) Redis
-  * ![nodejs](/assets/images/heroku-logo.jpg) Heroku
+  - ![nodejs](/assets/images/nodejs.png) Nodejs
+  - ![npm](/assets/images/npm.png) NPM
+  - ![react](/assets/images/react.png) React
+  - ![redux](/assets/images/redux.png) Redux
+  - ![mongo](/assets/images/mongo-logo.png) Mongo
+  - ![redis](/assets/images/redis-logo.png) Redis
+  - ![heroku](/assets/images/heroku-logo.png) Heroku
 
 * Contribute
 
-  * [Want to Contribute code? Click here](https://github.com/coralproject/talk/issues)
-  * [Interesting in other forms of contribution](https://www.coralproject.net/contribute.html)
+  - [Want to Contribute code? Click here](https://github.com/coralproject/talk/issues)
+  - [Interesting in other forms of contribution](https://www.coralproject.net/contribute.html)
 
 * Additional resources
 
-  * Say hello in slack or in the #devtools-html channel on irc.mozilla.org
+  - Say hello in slack or in the #devtools-html channel on irc.mozilla.org
 
-
-  * or Join us on [Slack](https://devtools-html-slack.herokuapp.com/)
+- or Join us on [Slack](https://devtools-html-slack.herokuapp.com/)

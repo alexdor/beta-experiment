@@ -12,32 +12,32 @@ listingDescription: "The Common Voice project is Mozilla's initiative to help te
 menu: "projects"
 ---
 
-* Setup dev time
+- Setup dev time
 
-  * Setting up your development environment:
+  - Setting up your development environment:
 
         5' with Docker, 15' without it
 
-  * Instructions
+  - Instructions
 
-* Technologies
+- Technologies
 
-  * ![nodejs](/assets/images/nodejs.png) Nodejs
-  * ![nodejs](/assets/images/npm.png) Npm
-  * ![nodejs](/assets/images/s3.png) Amazon S3
-  * ![nodejs](/assets/images/mariadb.png) MariaDB
-  * ![nodejs](/assets/images/ffmpeg.png) ffmpeg
-  * ![nodejs](/assets/images/docker.png) Docker
-  * ![nodejs](/assets/images/yarn.png) Yarn
+  - ![nodejs](/assets/images/nodejs.png) Nodejs
+  - ![npm](/assets/images/npm.png) Npm
+  - ![amazon s3](/assets/images/s3.png) Amazon S3
+  - ![maria db](/assets/images/mariadb.png) MariaDB
+  - ![ffmpeg](/assets/images/ffmpeg.png) ffmpeg
+  - ![docker](/assets/images/docker.png) Docker
+  - ![yarn](/assets/images/yarn.png) Yarn
 
-* Contribute
+- Contribute
 
-  * [Contribute to Common Voice](https://voice.mozilla.org/en)
+  - [Contribute to Common Voice](https://voice.mozilla.org/en)
 
-  * [Find easy tasks to begin with](https://voice.mozilla.org/en)
+  - [Find easy tasks to begin with](https://voice.mozilla.org/en)
 
-* Additional resources
+- Additional resources
 
-  * Discourse
+  - Discourse
 
-  * FAQ
+  - FAQ

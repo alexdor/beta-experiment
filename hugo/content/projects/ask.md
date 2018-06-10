@@ -14,30 +14,29 @@ listingDescription: "Ask is a tool primarily for journalists for asking your aud
 menu: "projects"
 ---
 
-* Setup dev time:
+- Setup dev time:
 
-  * Setting up your development environment: 10 minutes
+  - Setting up your development environment: 10 minutes
 
-
-  * [Instructions](https://github.com/coralproject/ask-install)
+* [Instructions](https://github.com/coralproject/ask-install)
 
 * Technologies
 
-  * ![nodejs](/assets/images/nodejs.png) Go
-  * ![nodejs](/assets/images/mongo-logo.png) Mongo
-  * ![nodejs](/assets/images/react.png) React
-  * ![nodejs](/assets/images/redux.png) Redux
-  * ![nodejs](/assets/images/js.jpg) Javascript
+  - ![go](/assets/images/go-logo.png) Go
+  - ![mongo](/assets/images/mongo-logo.png) Mongo
+  - ![react](/assets/images/react.png) React
+  - ![redux](/assets/images/redux.png) Redux
+  - ![javascript](/assets/images/js.jpg) Javascript
 
 * Contribute
 
-  * [Contribute code](https://www.coralproject.net/contribute.html)
+  - [Contribute code](https://www.coralproject.net/contribute.html)
 
 * Additional resources
 
-  * Talk Product Roadmap - https://www.pivotaltracker.com/n/projects/1863625
-  * [Our Blog](https://blog.coralproject.net/)
-  * [Community Forums](https://community.coralproject.net/)
-  * [Community Guides for Journalism](https://guides.coralproject.net/)
-  * [More About the project](https://coralproject.net/)
-  * Do you have a question? Mail us at support AT coralproject DOT zendesk DOT com
+  - Talk Product Roadmap - https://www.pivotaltracker.com/n/projects/1863625
+  - [Our Blog](https://blog.coralproject.net/)
+  - [Community Forums](https://community.coralproject.net/)
+  - [Community Guides for Journalism](https://guides.coralproject.net/)
+  - [More About the project](https://coralproject.net/)
+  - Do you have a question? Mail us at support AT coralproject DOT zendesk DOT com

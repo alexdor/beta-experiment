@@ -13,24 +13,22 @@ listingDescription: "An easy to use IRC client, written in Javascript." # The de
 menu: "projects"
 ---
 
-* Setup dev time
+- Setup dev time
 
-  * 15 minutes with GNOME Builder
+  - 15 minutes with GNOME Builder
 
-
-  * [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)
+* [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)
 
 * Technologies
 
-  * ![nodejs](/assets/images/js.jpg) Javascript
+  - ![Javascript](/assets/images/js.jpg) Javascript
 
 * Contribute
 
-  * [Contribute to GNOME Polari](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
+  - [Contribute to GNOME Polari](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
 
 * Additional resources
 
-  * Any questions or want to hangout with nice folks? Please join us in  [#polari on irc.gnome.org](irc://irc.gnome.org/%23polari).
+  - Any questions or want to hangout with nice folks? Please join us in [#polari on irc.gnome.org](irc://irc.gnome.org/%23polari).
 
-
-  * If you found a problem or have a feature suggestion, please report the issue to the GNOME [bug tracking system](https://gitlab.gnome.org/GNOME/polari/issues).
+- If you found a problem or have a feature suggestion, please report the issue to the GNOME [bug tracking system](https://gitlab.gnome.org/GNOME/polari/issues).

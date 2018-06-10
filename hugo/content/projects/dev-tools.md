@@ -14,28 +14,26 @@ listingDescription: "debugger.html is a hackable debugger for modern times, buil
 menu: "projects"
 ---
 
-* Setup dev time
+- Setup dev time
 
-  * Setting up your development environment: 5 minutes
+  - Setting up your development environment: 5 minutes
 
-
-  * [Instructions](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
+* [Instructions](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
 
 * Technologies
 
-  * ![nodejs](/assets/images/nodejs.png) Nodejs
-  * ![nodejs](/assets/images/npm.png) NPM
-  * ![nodejs](/assets/images/react.png) React
-  * ![nodejs](/assets/images/redux.png) Redux
-  * ![nodejs](/assets/images/js.jpg) Javascript
+  - ![nodejs](/assets/images/nodejs.png) Nodejs
+  - ![npm](/assets/images/npm.png) NPM
+  - ![react](/assets/images/react.png) React
+  - ![redux](/assets/images/redux.png) Redux
+  - ![javascript](/assets/images/js.jpg) Javascript
 
 * Contribute
 
-  * [Contribute to Debugger](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
+  - [Contribute to Debugger](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
 
 * Additional resources
 
-  * Say hello in slack or in the #devtools-html channel on irc.mozilla.org
+  - Say hello in slack or in the #devtools-html channel on irc.mozilla.org
 
-
-  * or Join us on [Slack](https://devtools-html-slack.herokuapp.com/)
+- or Join us on [Slack](https://devtools-html-slack.herokuapp.com/)

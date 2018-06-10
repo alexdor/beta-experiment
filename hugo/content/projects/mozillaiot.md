@@ -12,24 +12,24 @@ listingDescription: "Contribute to the Internet of Things through Mozilla's init
 menu: "projects"
 ---
 
-* Setup dev time:
+- Setup dev time:
 
-  * Setting up your development environment: 10 minutes
+  - Setting up your development environment: 10 minutes
 
-  * [Instructions](https://iot.mozilla.org/contribute/)
+  - [Instructions](https://iot.mozilla.org/contribute/)
 
-* Technologies
+- Technologies
 
-  * ![nodejs](/assets/images/nodejs.png) NodeJS
-  * ![nodejs](/assets/images/npm.png) IoT
+  - ![nodejs](/assets/images/nodejs.png) NodeJS
+  - ![iot](/assets/images/npm.png) IoT
 
-* Contribute
+- Contribute
 
-  * Build a Web Thing - Build your own IoT device which uses the [Web Thing API](https://iot.mozilla.org/wot/)
-  * Create an adapter - Create an [adapter add-on](https://github.com/mozilla-iot/addon-list/blob/master/README.md) to bridge an existing IoT protocol or device to the web
-  * Hack on Project Things — Help us develop [Mozilla's Web of Things implementation](https://github.com/mozilla-iot)
-  * [Explore all opportunities](https://www.coralproject.net/contribute.html)
+  - Build a Web Thing - Build your own IoT device which uses the [Web Thing API](https://iot.mozilla.org/wot/)
+  - Create an adapter - Create an [adapter add-on](https://github.com/mozilla-iot/addon-list/blob/master/README.md) to bridge an existing IoT protocol or device to the web
+  - Hack on Project Things — Help us develop [Mozilla's Web of Things implementation](https://github.com/mozilla-iot)
+  - [Explore all opportunities](https://www.coralproject.net/contribute.html)
 
-* Additional resources
+- Additional resources
 
-  * [More About the project](https://github.com/mozilla-iot/addon-list/blob/master/README.md)
+  - [More About the project](https://github.com/mozilla-iot/addon-list/blob/master/README.md)
