@@ -14,25 +14,23 @@ menu: "projects"
 
 * Setup dev time
 
-  * 15 minutes with GNOME Builder
-
-
-  * [Instructions](https://wiki.gnome.org/Newcomers/BuildGnome)
+  - 15 minutes with GNOME Builder
+  - [Instructions](https://wiki.gnome.org/Newcomers/BuildGnome)
 
 * Technologies
 
-  * ![nodejs](/assets/images/js.jpg) Javascript
-  * ![nodejs](/assets/images/mapbox-logo.jpg) mapbox
-  * ![nodejs](/assets/images/osm-logo.jpg) OpenStreetMaps
+  - ![nodejs](/assets/images/js.jpg) Javascript
+  - ![nodejs](/assets/images/mapbox-logo.jpg) mapbox
+  - ![nodejs](/assets/images/osm-logo.jpg) OpenStreetMaps
 
 * Contribute
 
-  * [List of Newcomers Bugs](https://bugzilla.gnome.org/buglist.cgi?product=gnome-maps&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&keywords=newcomers&resolution=---&columnlist=component%2Cchangeddate%2Cbug_severity%2Cpriority%2Cshort_desc&order=changeddate%20DESC%2Ccomponent&list_id=64327)
-  * [Complete list of GNOME Maps bugs to solve](https://bugzilla.gnome.org/buglist.cgi?quicksearch=product%3A%22gnome-maps%22%20&list_id=88924)
+  - [List of Newcomers Bugs](https://bugzilla.gnome.org/buglist.cgi?product=gnome-maps&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&keywords=newcomers&resolution=---&columnlist=component%2Cchangeddate%2Cbug_severity%2Cpriority%2Cshort_desc&order=changeddate%20DESC%2Ccomponent&list_id=64327)
+  - [Complete list of GNOME Maps bugs to solve](https://bugzilla.gnome.org/buglist.cgi?quicksearch=product%3A%22gnome-maps%22%20&list_id=88924)
 
 * Additional resources
 
-  * [Additional Developer Resources](https://wiki.gnome.org/Apps/Maps/Resources)
-  * [Codebase](https://git.gnome.org/)
-  * Any questions or want to hangout with nice folks? Please join us in [#maps on irc.gnome.org](irc://irc.gnome.org/%23polari).
-  * GNOME Maps [Roadmap](https://wiki.gnome.org/Apps/Maps/Roadmap)
+  - [Additional Developer Resources](https://wiki.gnome.org/Apps/Maps/Resources)
+  - [Codebase](https://git.gnome.org/)
+  - Any questions or want to hangout with nice folks? Please join us in [#maps on irc.gnome.org](irc://irc.gnome.org/%23polari).
+  - GNOME Maps [Roadmap](https://wiki.gnome.org/Apps/Maps/Roadmap)
