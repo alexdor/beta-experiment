@@ -19,9 +19,8 @@ menu: "projects"
 
 * Technologies
 
-  * ![nodejs](/assets/images/js.jpg) C
-  * ![nodejs](/assets/images/mapbox-logo.jpg) mapbox
-  * ![nodejs](/assets/images/osm-logo.jpg) OpenStreetMaps
+  * ![nodejs](/assets/images/c-logo.png) C
+
 
 * Contribute
 
