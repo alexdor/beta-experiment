@@ -14,11 +14,10 @@ listingDescription: "debugger.html is a hackable debugger for modern times, buil
 menu: "projects"
 ---
 
-- Setup dev time
+- Setup development environment time
 
-  - Setting up your development environment: 5 minutes
-
-* [Instructions](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
+  - 5 minutes
+  - [Instructions](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
 
 * Technologies
 
@@ -30,10 +29,9 @@ menu: "projects"
 
 * Contribute
 
-  - [Contribute to Debugger](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
+  - [Contribute code to Debugger](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)
 
 * Additional resources
 
   - Say hello in slack or in the #devtools-html channel on irc.mozilla.org
-
-- or Join us on [Slack](https://devtools-html-slack.herokuapp.com/)
+  - or Join us on [Slack](https://devtools-html-slack.herokuapp.com/)
