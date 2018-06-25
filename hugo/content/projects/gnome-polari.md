@@ -16,8 +16,7 @@ menu: "projects"
 - Setup development environment time:
 
   - 15 minutes with GNOME Builder
-
-* [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)
+  - [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)
 
 * Technologies
 
