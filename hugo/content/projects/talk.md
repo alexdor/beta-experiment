@@ -12,7 +12,7 @@ listingDescription: "Online comments are broken. Talk rethinks how moderation, c
 menu: "projects"
 ---
 
-- Setup dev time
+- Setup development environment time:
 
   - Setting up your development environment: 5 minutes with heroku
 

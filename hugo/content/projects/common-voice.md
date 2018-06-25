@@ -12,7 +12,7 @@ listingDescription: "The Common Voice project is Mozilla's initiative to help te
 menu: "projects"
 ---
 
-- Setup dev environment time
+- Setup development environment time:
 
   - 5' with Docker, 15' without it
 

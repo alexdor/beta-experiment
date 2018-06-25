@@ -12,7 +12,7 @@ listingDescription: "Contribute to the Internet of Things through Mozilla's init
 menu: "projects"
 ---
 
-- Setup dev time:
+- Setup development environment time:
 
   - Setting up your development environment: 10 minutes
 

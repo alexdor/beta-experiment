@@ -14,7 +14,7 @@ listingDescription: "debugger.html is a hackable debugger for modern times, buil
 menu: "projects"
 ---
 
-- Setup development environment time
+- Setup development environment time:
 
   - 5 minutes
   - [Instructions](http://firefox-dev.tools/debugger.html/CONTRIBUTING.html#getting-started-runner)

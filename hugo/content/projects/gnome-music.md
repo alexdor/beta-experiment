@@ -12,7 +12,7 @@ listingDescription: "A music player that fancies an elegant and immersive browsi
 menu: "projects"
 ---
 
-- Setup dev time
+- Setup development environment time:
 
   - 15 minutes with GNOME Builder
   - [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)

@@ -12,7 +12,7 @@ listingDescription: "A simple and intuitive personal task manager for GNOME, wri
 menu: "projects"
 ---
 
-* Setup dev time
+* Setup development environment time:
 
   * 15 minutes with GNOME Builder
   * [Instructions](https://wiki.gnome.org/Newcomers/BuildGnome)

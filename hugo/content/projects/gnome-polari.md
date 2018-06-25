@@ -13,7 +13,7 @@ listingDescription: "An easy to use IRC client, written in Javascript." # The de
 menu: "projects"
 ---
 
-- Setup dev time
+- Setup development environment time:
 
   - 15 minutes with GNOME Builder
 

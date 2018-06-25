@@ -12,7 +12,7 @@ listingDescription: "GNOME Maps is the default application for maps in GNOME whi
 menu: "projects"
 ---
 
-* Setup dev time
+* Setup development environment time:
 
   - 15 minutes with GNOME Builder
   - [Instructions](https://wiki.gnome.org/Newcomers/BuildGnome)
