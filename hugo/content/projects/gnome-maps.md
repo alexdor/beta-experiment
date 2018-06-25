@@ -20,8 +20,8 @@ menu: "projects"
 * Technologies
 
   - ![Javascript](/assets/images/js.jpg) Javascript
-  - ![mapbox](/assets/images/mapbox-logo.jpg) mapbox
-  - ![osm](/assets/images/osm-logo.jpg) OpenStreetMaps
+  - ![mapbox](/assets/images/mapbox-logo.png) mapbox
+  - ![osm](/assets/images/osm-logo.png) OpenStreetMaps
 
 * Contribute
 
