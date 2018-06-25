@@ -29,6 +29,6 @@ menu: "projects"
 * Additional resources
   - [Contribution Guidelines](https://gitlab.gnome.org/GNOME/gnome-todo/blob/master/doc/CONTRIBUTING.md)
   - [App's  Documentation](https://help.gnome.org/users/gnome-music/stable/)
-  - Any questions or want to hangout with nice folks? Please join us in [#gnome-music on irc.gnome.org](irc://irc.gnome.org/%23polari)
+  - Any questions or want to hangout with nice folks? Join us in [#gnome-music on irc.gnome.org](irc://irc.gnome.org/%23polari)
+  - Problems or feature requests are reported at GNOME [bug tracking system](https://gitlab.gnome.org/GNOME/polari/issues)
   - GNOME Music [mailing list](https://mail.gnome.org/mailman/listinfo/gnome-multimedia)
-  - If you found a problem or have a feature suggestion, please report the issue to the GNOME [bug tracking system](https://gitlab.gnome.org/GNOME/polari/issues)
