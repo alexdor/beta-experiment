@@ -17,9 +17,7 @@ menu: "projects"
 - Setup dev envoriment time:
 
   - 10 minutes
-
-* Instructions
-  - [Setup the development enviroment](https://github.com/coralproject/ask-install)
+  - [Instructions](https://github.com/coralproject/ask-install)
 
 * Technologies
 
