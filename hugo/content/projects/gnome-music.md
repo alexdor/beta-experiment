@@ -18,7 +18,7 @@ menu: "projects"
   - [Instructions](https://wiki.gnome.org/Newcomers/BuildProject)
 
 * Technologies
-  - ![Python](/assets/images/python-logo.jpg) Python
+  - ![Python](/assets/images/python-logo.png) Python
 
 * Contribute
 
