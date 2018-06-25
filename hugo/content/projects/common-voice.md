@@ -12,13 +12,11 @@ listingDescription: "The Common Voice project is Mozilla's initiative to help te
 menu: "projects"
 ---
 
-- Setup dev time
+- Setup dev environment time
 
-  - Setting up your development environment:
+  - 5' with Docker, 15' without it
 
-        5' with Docker, 15' without it
-
-  - Instructions
+  - [Instructions](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md)
 
 - Technologies
 
@@ -32,12 +30,12 @@ menu: "projects"
 
 - Contribute
 
-  - [Contribute to Common Voice](https://voice.mozilla.org/en)
+  - [Contribute Code to Common Voice](https://github.com/mozilla/voice-web/issues)
 
-  - [Find easy tasks to begin with](https://voice.mozilla.org/en)
+  - [Find easy tasks to begin with](https://github.com/mozilla/voice-web/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 
 - Additional resources
 
-  - Discourse
-
-  - FAQ
+  - By participating in this project, you're agreeing to uphold the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+  - For general discussion (feedback, ideas, random musings), head to our [Discourse Category](https://discourse.mozilla-community.org/c/voice).
+  - Come chat with us on [Slack: Invite link](https://common-voice-slack-invite.herokuapp.com/)
