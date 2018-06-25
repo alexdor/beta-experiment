@@ -26,11 +26,11 @@ menu: "projects"
 
   * [List of issues for Newcomers](https://gitlab.gnome.org/GNOME/gnome-todo/issues?label_name%5B%5D=4.+Newcomers)
   * [A complete list of issues to work on](https://gitlab.gnome.org/GNOME/gnome-todo/issues)
-  * [Explore the Codebase](https://gitlab.gnome.org/GNOME/gnome-todo/tree/master)
 
 * Additional resources
 
   * [Contribution Guidelines](https://gitlab.gnome.org/GNOME/gnome-todo/blob/master/doc/CONTRIBUTING.md)
+  * [Explore the Codebase](https://gitlab.gnome.org/GNOME/gnome-todo/tree/master)
   * [Additional Developer Resources](https://wiki.gnome.org/Apps/Todo/Resources)
   * Any questions or want to hangout with nice folks? Please join us in [#gnome-todo on irc.gnome.org](irc://irc.gnome.org/%23polari).
   * GNOME Maps [Roadmap](https://wiki.gnome.org/Apps/Todo/Roadmap)
