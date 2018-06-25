@@ -14,9 +14,8 @@ menu: "projects"
 
 - Setup development environment time:
 
-  - Setting up your development environment: 5 minutes with heroku
-
-* [Instructions](https://github.com/coralproject/talk)
+  - 5 minutes with heroku
+  - [Instructions](https://github.com/coralproject/talk)
 
 * Technologies
 
@@ -30,11 +29,10 @@ menu: "projects"
 
 * Contribute
 
-  - [Want to Contribute code? Click here](https://github.com/coralproject/talk/issues)
-  - [Interesting in other forms of contribution](https://www.coralproject.net/contribute.html)
+  - [Contribute Code here](https://github.com/coralproject/talk/issues)
+  - [Other forms of contribution](https://www.coralproject.net/contribute.html)
 
 * Additional resources
 
   - Say hello in slack or in the #devtools-html channel on irc.mozilla.org
-
-- or Join us on [Slack](https://devtools-html-slack.herokuapp.com/)
+  - or Join us on [Slack](https://devtools-html-slack.herokuapp.com/)
