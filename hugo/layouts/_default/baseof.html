@@ -10,7 +10,7 @@
   <meta name="description" content="{{ .Description }}">
   <link rel="canonical" href="{{ .Permalink }}">
 
-  <link rel="manifest" href="{{ " /manifest.json " | relURL }}">
+  <link rel="manifest" href="{{"/manifest.json" | relURL }}">
   <meta name="application-name" content="{{ $title }}">
   <meta name="theme-color" content="#2271ff"> {{ if .RSSLink }}
   <link rel="preload" href="{{"static/css/main.css" | relURL }}" as="style">
