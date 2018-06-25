@@ -14,11 +14,12 @@ listingDescription: "Ask is a tool primarily for journalists for asking your aud
 menu: "projects"
 ---
 
-- Setup dev time:
+- Setup dev envoriment time:
 
-  - Setting up your development environment: 10 minutes
+  - 10 minutes
 
-* [Instructions](https://github.com/coralproject/ask-install)
+* Instructions
+  - [Setup the development enviroment](https://github.com/coralproject/ask-install)
 
 * Technologies
 
@@ -34,7 +35,7 @@ menu: "projects"
 
 * Additional resources
 
-  - Talk Product Roadmap - https://www.pivotaltracker.com/n/projects/1863625
+  - [Talk Product Roadmap](https://www.pivotaltracker.com/n/projects/1863625)
   - [Our Blog](https://blog.coralproject.net/)
   - [Community Forums](https://community.coralproject.net/)
   - [Community Guides for Journalism](https://guides.coralproject.net/)
