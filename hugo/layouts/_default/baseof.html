@@ -18,6 +18,11 @@
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600" as="style">
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ $title }}" />
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ $title }}" /> {{ end }}
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta http-equiv="Strict-Transport-Security" content="max-age=63072000">
+  <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'none'">
+  <meta http-equiv="X-Frame-Options" content="DENY">
+  <meta http-equiv='Content-Security-Policy' content="default-src 'none'; connect-src 'self' sheets.googleapis.com; script-src 'self' code.jquery.com cdnjs.cloudflare.com; style-src 'self' cdnjs.cloudflare.com; img-src 'self'; font-src 'self' cdnjs.cloudflare.com; base-uri 'none'; form-action docs.google.com">
 
 </head>
 
