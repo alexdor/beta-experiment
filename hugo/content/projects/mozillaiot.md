@@ -15,7 +15,6 @@ menu: "projects"
 - Setup development environment time:
 
   - 10 minutes
-
   - [Instructions](https://iot.mozilla.org/contribute/)
 
 - Technologies
@@ -30,5 +29,5 @@ menu: "projects"
   - Hack on Project Things — Help us develop [Mozilla's Web of Things implementation](https://github.com/mozilla-iot)
 - Additional resources
 
-  - [Explore all opportunities](https://www.coralproject.net/contribute.html)
-  - [More About the project](https://github.com/mozilla-iot/addon-list/blob/master/README.md)
+  - [Explore all opportunities](https://iot.mozilla.org/contribute/)
+  - [More About the Add-ons](https://github.com/mozilla-iot/addon-list/blob/master/README.md)
