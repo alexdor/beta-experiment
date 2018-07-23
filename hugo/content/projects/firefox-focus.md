@@ -7,7 +7,7 @@ link: "https://www.mozilla.org/en-US/firefox/mobile/"
 sortDescription: "Browse like no one’s watching. The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it. Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
 
 Firefox Focus provides automatic ad blocking and tracking protection on an easy-to-use private browser."
-descriptionLeft: "BBrowse like no one’s watching. The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it. Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
+descriptionLeft: "Browse like no one’s watching. The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it. Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
 
 Firefox Focus provides automatic ad blocking and tracking protection on an easy-to-use private browser."
 descriptionRight: "We encourage you to participate in this open source project. We love Pull Requests, Bug Reports, ideas, (security) code reviews or any other kind of positive contribution.
@@ -42,6 +42,6 @@ menu: "projects"
 - Additional resources
 
   - By participating in this project, you're agreeing to uphold the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
-  - For general discussion (feedback, ideas, random musings), head to our IRC channel: #focus (irc.mozilla.org) | [view logs](https://mozilla.logbot.info/focus/) (We're available Monday-Friday, GMT and PST working hours).
+  - For general discussion (feedback, ideas), head to our IRC channel: #focus (irc.mozilla.org) | [view logs](https://mozilla.logbot.info/focus/) (We're available Monday-Friday, GMT and PST working hours).
   - Opt-in to our Mailing List [firefox-focus-public@](https://mail.mozilla.org/listinfo/firefox-focus-public) to keep up to date.
   - View the [wiki](https://github.com/mozilla-mobile/focus-android/wiki)
