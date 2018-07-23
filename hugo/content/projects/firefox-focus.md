@@ -4,9 +4,7 @@ date: 2018-05-09T20:47:18+03:00
 imageURL: "/assets/images/firefox-focus.png"
 thumbnail: "/assets/images/firefox-focus.png"
 link: "https://www.mozilla.org/en-US/firefox/mobile/"
-sortDescription: "Browse like no one’s watching. The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it. Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
-
-Firefox Focus provides automatic ad blocking and tracking protection on an easy-to-use private browser."
+sortDescription: 
 descriptionLeft: "Browse like no one’s watching. The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it. Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
 
 Firefox Focus provides automatic ad blocking and tracking protection on an easy-to-use private browser."
