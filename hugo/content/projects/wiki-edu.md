@@ -2,7 +2,7 @@
 title: "Wiki Education Dashboard"
 date: 2018-05-09T20:47:18+03:00
 imageURL: "/assets/images/wiki-edu.png"
-thumbnail: "/assets/images/firefox-focus.png"
+thumbnail: "/assets/images/wiki-edu.png"
 link: "https://github.com/WikiEducationFoundation/WikiEduDashboard"
 sortDescription: "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects. It provides data and course management features for groups of editors — instructors, students, and others — who are working on Wikipedia, Wikidata, and other Wikimedia wikis. Users log in with their Wikipedia accounts (through OAuth) and allow the Dashboard to make edits on their behalf. The Dashboard automates many of the standard elements of organizing and participating in a Wikipedia classroom assignment, edit-a-thon, or other wiki contribution campaign."
 descriptionLeft: "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects. It provides data and course management features for groups of editors — instructors, students, and others — who are working on Wikipedia, Wikidata, and other Wikimedia wikis. Users log in with their Wikipedia accounts (through OAuth) and allow the Dashboard to make edits on their behalf. The Dashboard automates many of the standard elements of organizing and participating in a Wikipedia classroom assignment, edit-a-thon, or other wiki contribution campaign."
