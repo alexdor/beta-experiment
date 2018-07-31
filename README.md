@@ -105,6 +105,7 @@ Now Netlify will build and deploy your site whenever you push to git.
 You can also click this button:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alexdor/beta-experiment)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falexdor%2Fbeta-experiment.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falexdor%2Fbeta-experiment?ref=badge_shield)
 
 It is also possible to roll your own deploy with CircleCI and AWS as an alternative.
 
@@ -146,3 +147,7 @@ media_folder: "hugo/static/assets"
 public_folder: "/assets"
 collections: # See netlify-cms docs
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falexdor%2Fbeta-experiment.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falexdor%2Fbeta-experiment?ref=badge_large)
