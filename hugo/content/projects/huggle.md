@@ -31,7 +31,7 @@ menu: "projects"
 
 - Additional resources
 
-  - Get in touch with the mentor Peter Bena (https://www.mediawiki.org/wiki/User:Petrb)
+  - Get in touch with the mentor [Peter Bena](https://www.mediawiki.org/wiki/User:Petrb)
   - Mailing list (https://lists.wikimedia.org/mailman/listinfo/huggle)
   - Chat in #huggle on irc.freenode.net
   - [Read the user documentation](https://www.mediawiki.org/wiki/Manual:Huggle)
