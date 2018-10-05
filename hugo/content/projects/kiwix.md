@@ -7,21 +7,17 @@ link: "https://meta.wikimedia.org/wiki/Kiwix_-_Wikipedia_Offline"
 sortDescription: "Kiwix brings internet contents to people without internet access. It is free as in beer and as in speech.
 
 As an offline reader, it is especially thought to make Wikipedia available offline, but technically any kind of web content can be stored into a ZIM file (a highly compressed open format) and then read by the app: there are currently several hundred different contents available in more than 100 languages, from Wikipedia, Wikiquote, the Wiktionary to TED conferences or the Gutenberg library. "
-descriptionLeft: "Kiwix brings internet contents to people without internet access. It is free as in beer and as in speech.
-
-As an offline reader, it is especially thought to make Wikipedia available offline, but technically any kind of web content can be stored into a ZIM file (a highly compressed open format) and then read by the app: there are currently several hundred different contents available in more than 100 languages, from Wikipedia, Wikiquote, the Wiktionary to TED conferences or the Gutenberg library. "
+descriptionLeft:
 descriptionRight:
 callToAction: "Learn More..." # Find out more by default
-listingDescription:  # The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
+listingDescription:  "Kiwix brings internet contents to people without internet access. It is free as in beer and as in speech." # The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
 menu: "projects"
 ---
 
 - Setup development environment time:
 
   - <60'
-
   - [Instructions](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)
-  - [New developer's guide](https://tools.wmflabs.org/huggle/docs/head/ documentation )
 
 - Technologies
 
