@@ -8,7 +8,7 @@ sortDescription:
 descriptionLeft: "ORES is a web service and API that provides machine learning as a service for Wikimedia projects maintained by the Scoring Platform team. The system is designed to help automate critical wiki-work – for example, vandalism detection and removal. Currently, the two general types of scores that ORES generates are in the context of “edit quality” and “article quality.” "
 descriptionRight: "ORES is a back-end service and does not directly provide a way to make use of the scores. If you'd like to use ORES scores, check our list of tools that use ORES scores. If ORES doesn't support your wiki yet, see our instructions for requesting support."
 callToAction: "Learn More..." # Find out more by default
-listingDescription: "RES is a web service and API that provides machine learning as a service for Wikimedia projects maintained by the Scoring Platform team. The system is designed to help automate critical wiki-work – for example, vandalism detection and removal."  # The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
+listingDescription: "ORES is a web service and API that provides machine learning as a service for Wikimedia projects maintained by the Scoring Platform team. The system is designed to help automate critical wiki-work – for example, vandalism detection and removal."  # The description of the project for the project listing, if no description is provided the content of the sortDescription will be used
 menu: "projects"
 ---
 
