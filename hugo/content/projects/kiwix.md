@@ -23,10 +23,13 @@ menu: "projects"
 
   - ![java](/assets/images/java.png) Java
   - ![swift](/assets/images/swift.png) Swift
+  - ![cplusplus](/assets/images/cplusplus.png) C++
+  - ![javascript](/assets/images/javascript.png) Javascript
+  - ![python](/assets/images/python-logo.png) Python
 
 - Contribute
-  - [Check the recommended tasks to work on Android, IOS and JS on Github](https://github.com/kiwix/kiwix-android/labels/enhancement)
-  - [Explore all available issues](https://github.com/kiwix/kiwix-js/issues)
+  - [Check the recommended tasks to work on Android, IOS and JS on Github](http://www.kiwix.org/code/)
+  - [Explore all available issues](https://github.com/search?q=org:kiwix+is:issue+is:open&unscoped_q=is:issue+is:open)
 
 - Additional resources
 
