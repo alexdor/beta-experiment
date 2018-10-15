@@ -4,7 +4,7 @@ date: 2018-05-09T20:47:18+03:00
 imageURL: "/assets/images/newsletter.png"
 thumbnail: "/assets/images/newsletter.png"
 link: "https://www.mediawiki.org/wiki/Extension:Newsletter"
-sortDescription: "The Newsletter extension provides a catalog of newsletters registered in a given wiki, an easy way for publishers to announce new issues, and an easy way for users to subscribe/unsubscribe and be notified via web or email when new issues are announced. A "newsletter" is defined as a publication that has a name, a wiki home page, and a single or central wiki page for each issue or edition."
+sortDescription: "The Newsletter extension provides a catalog of newsletters registered in a given wiki, an easy way for publishers to announce new issues, and an easy way for users to subscribe/unsubscribe and be notified via web or email when new issues are announced. A newsletter is defined as a publication that has a name, a wiki home page, and a single or central wiki page for each issue or edition."
 descriptionLeft:
 descriptionRight:
 callToAction: "Learn More..." # Find out more by default
